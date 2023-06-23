@@ -20,7 +20,7 @@ import AdminForgotPassword from "./Admin/AdminForgotPassword";
 import AdminResetPassword from "./Admin/AdminResetPassword";
 
 //backend url
-export const url = "http://localhost:8000";
+export const url = "https://rentify-backend-rp5x.onrender.com";
 
 function App() {
   return (
